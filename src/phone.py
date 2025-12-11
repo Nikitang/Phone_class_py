@@ -1,5 +1,3 @@
-# phone.py
-
 class Phone:
     def __init__(
         self,
